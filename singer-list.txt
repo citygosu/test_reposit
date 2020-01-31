@@ -1,2 +1,2 @@
-singer-a
-singer-b
+singer-aaa
+singer-bbb
